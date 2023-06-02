@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Irazú</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
