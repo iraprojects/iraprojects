@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner">
+  <img src="./banner.png" alt="Banner Irazú Frontend Developer">
 </p>
-
-<h1 align="center">Hi 👋, I'm Irazú</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
 
 - 📄 I'm Irazú, Front-End Developer. My passion for technology and constant learning led me to study Computer Networks and Services. As I deepened my studies, I discovered a great interest in the Front-End area, where I can combine my love for the web with my creative side. Using my knowledge in networks and programming, I build interactive and functional interfaces that give users a pleasant experience in the digital world.](I'm Irazú, Front-End Developer. My passion for technology and constant learning led me to study Computer Networks and Services. As I deepened my studies, I discovered a great interest in the Front-End area, where I can combine my love for the web with my creative side. Using my knowledge in networks and programming, I build interactive and functional interfaces that give users a pleasant experience in the digital world.
 
