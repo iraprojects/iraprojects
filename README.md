@@ -2,9 +2,7 @@
   <img src="./banner.png" alt="Banner Irazú Frontend Developer">
 </p>
 
-Hi! I'm Irazú.
--------------------
-Front-end Developer
+Hi! I'm Irazú a Front-end Developer
 -------------------
 
 - Passion for technology and continuous learning.
