@@ -2,7 +2,11 @@
   <img src="./banner.png" alt="Banner Irazú Frontend Developer">
 </p>
 
-- 📄 I'm Irazú, Front-End Developer. My passion for technology and constant learning led me to study Computer Networks and Services. As I deepened my studies, I discovered a great interest in the Front-End area, where I can combine my love for the web with my creative side. Using my knowledge in networks and programming, I build interactive and functional interfaces that give users a pleasant experience in the digital world.](I'm Irazú, Front-End Developer. My passion for technology and constant learning led me to study Computer Networks and Services. As I deepened my studies, I discovered a great interest in the Front-End area, where I can combine my love for the web with my creative side. Using my knowledge in networks and programming, I build interactive and functional interfaces that give users a pleasant experience in the digital world.
+- Passion for technology and continuous learning.
+- Great interest and focus in the Front-End area.
+- Knowledge in networks and administration of Linux and Windows server.
+- Building interactive and functional interfaces.
+- Focus on providing users with a pleasant experience in the digital world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
