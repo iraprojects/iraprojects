@@ -2,8 +2,8 @@
   <img src="./banner.png" alt="Banner Irazú Frontend Developer">
 </p>
 
-Hi! I'm Irazú
-=============================================================================================================================
+Hi! I'm Irazú.
+
 Front-end Developer
 -------------------
 
