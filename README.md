@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner Irazú Frontend Developer">
+  <img src="./Banner Linkedin.png" alt="Banner Irazú Frontend Developer">
 </p>
 
 Hi! I'm Irazú a Front-end Developer
@@ -9,7 +9,7 @@ Hi! I'm Irazú a Front-end Developer
 - Knowledge in networks and administration of Linux and Windows server.
 - Building interactive and functional interfaces.
 - Focus on providing users with a pleasant experience in the digital world.
-- Currently developing an API client for a burger chain.
+- Currently developing an extension to manage your github followers.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
