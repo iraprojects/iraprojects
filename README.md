@@ -2,7 +2,7 @@
   <img src="./Banner Linkedin.png" alt="Banner Irazú Frontend Developer">
 </p>
 
-Hi! I'm Irazú a Front-end Developer
+Hi! I'm Irazú a Web Developer
 -------------------
 
 - Passion for technology and continuous learning.
