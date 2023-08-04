@@ -13,7 +13,7 @@ Hi! I'm Irazú a Web Developer
 
 Contact
 -------------------
-[Linkedin](https://linkedin.com/in/irazu-mendoza/)
+[Linkedin](https://linkedin.com/in/irazu-mendoza/) | 
 [Portfolio](https://iraprojects.github.io/irazumendoza/)
     
 
