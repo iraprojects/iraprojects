@@ -34,5 +34,7 @@ Hi! I'm Irazú a Web Developer
 </p>
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://iraprojects.github.io/irazumendoza/" target="blank"><img align="center" <i class="fa-sharp fa-regular fa-globe-pointer"></i> alt="link to portfolio" height="30" width="40" /></a>
+<a href="https://iraprojects.github.io/irazumendoza/" target="blank">
+  <img align="center" <i class="fa-sharp fa-regular fa-globe-pointer"></i> 
+</a>
 </p>
