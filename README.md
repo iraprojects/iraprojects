@@ -32,3 +32,7 @@ Hi! I'm Irazú a Web Developer
 <p align="left">
 <a href="https://linkedin.com/in/irazu-mendoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irazu-mendoza/" height="30" width="40" /></a>
 </p>
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+<a href="https://iraprojects.github.io/irazumendoza/" target="blank"><img align="center" <i class="fa-sharp fa-regular fa-globe-pointer"></i> alt="link to portfolio" height="30" width="40" /></a>
+</p>
