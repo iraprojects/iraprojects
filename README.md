@@ -1,23 +1,20 @@
 <p align="center">
-  <img src="./Banner Linkedin.png" alt="Banner Irazú Frontend Developer">
+  <img src="./Banner Linkedin.png" alt="Banner Irazú web developer">
 </p>
 
 Hi! I'm Irazú a Web Developer
 -------------------
-
-- Passion for technology and continuous learning.
-- Knowledge in networks and administration of Linux and Windows server.
-- Building interactive and functional interfaces.
-- Focus on providing users with a pleasant experience in the digital world.
-- Currently developing an extension to manage your github followers.
+Web developer with experience in React, Javascript, Node and Java. Currently learning Vue and developing an extension to manage github users.
+- 😄 I love developing fun and interesting projects.
+- 🌐 I have a background in server administration with linux and windows server.
+- 🌟 My goal is to work on projects that solve real problems while having fun in the process.
+- 🗨 Programmer by day, [doodle](https://www.instagram.com/chkomics/) expert by night.
 
 Contact
 -------------------
-[Linkedin](https://linkedin.com/in/irazu-mendoza/) | 
-[Portfolio](https://iraprojects.github.io/irazumendoza/)
+- Check my website [iraprojects](https://iraprojects.netlify.app).
+- Add me on [Linkedin](https://linkedin.com/in/irazu-mendoza/).
     
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
