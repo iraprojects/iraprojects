@@ -4,7 +4,7 @@
 
 Hi! I'm Irazú a Web Developer
 -------------------
-Web developer with experience in React, Javascript, Typescript, Node and Java. Currently learning Springboot and developing a website for the administration of a veterinary.
+Web developer with experience in React, Javascript, Typescript, Node and Java. Currently learning Python.
 - 😄 I love developing fun and interesting projects.
 - 🌐 I have a background in server administration with linux and windows server.
 - 🌟 My goal is to work on projects that solve real problems while having fun in the process.
