@@ -8,7 +8,6 @@ Web developer with experience in React, Javascript, Typescript, Node and Java. C
 - 😄 I love developing fun and interesting projects.
 - 🌐 I have a background in server administration with linux and windows server.
 - 🌟 My goal is to work on projects that solve real problems while having fun in the process.
-- 🗨 Programmer by day, [doodle](https://www.instagram.com/chkomics/) expert by night.
 
 Contact
 -------------------
